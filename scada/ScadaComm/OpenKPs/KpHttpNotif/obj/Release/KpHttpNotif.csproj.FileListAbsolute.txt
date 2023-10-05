@@ -1,0 +1,50 @@
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Lang\AddressBook.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Config\KpHttpNotif_001.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Lang\KpHttpNotif.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Lang\KpHttpNotif.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\KpHttpNotif.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\KpHttpNotif.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\AddressBook.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaCommCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\AddressBook.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\AddressBook.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaCommCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaCommCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\Scada.Comm.Devices.HttpNotif.UI.FrmConfig.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Lang\AddressBook.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Config\KpHttpNotif_001.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Lang\KpHttpNotif.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Lang\KpHttpNotif.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\KpHttpNotif.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\KpHttpNotif.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\AddressBook.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaCommCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\AddressBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\AddressBook.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaCommCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaCommCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\Scada.Comm.Devices.HttpNotif.UI.FrmConfig.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpHttpNotif\obj\Release\KpHttpNotif.pdb

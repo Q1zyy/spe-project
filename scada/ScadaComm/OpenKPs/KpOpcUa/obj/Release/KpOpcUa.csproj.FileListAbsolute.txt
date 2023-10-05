@@ -1,0 +1,264 @@
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Config\KpOpcUa_001.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Lang\KpOpcUa.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Lang\KpOpcUa.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\KpOpcUa.dll.config
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\KpOpcUa.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\KpOpcUa.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\netstandard.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.AppContext.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.Concurrent.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.Specialized.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Console.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Data.Common.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Process.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Drawing.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Globalization.Calendars.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Globalization.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Globalization.Extensions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.Compression.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.Pipes.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.Expressions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.Parallel.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.Queryable.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Http.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.NameResolution.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Ping.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Requests.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Security.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Sockets.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.WebSockets.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ObjectModel.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Reflection.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Reflection.Extensions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Reflection.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Resources.Reader.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Resources.Writer.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Extensions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Handles.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Numerics.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Claims.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Principal.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.SecureString.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Text.Encoding.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Overlapped.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Tasks.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Thread.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Timer.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ValueTuple.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XDocument.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XPath.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Newtonsoft.Json.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Opc.Ua.Client.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Opc.Ua.Configuration.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Opc.Ua.Core.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaCommCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Newtonsoft.Json.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaCommCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaCommCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.CtrlCommand.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.CtrlItem.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.CtrlSubscription.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.FrmConfig.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.FrmNodeAttr.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.FrmSecurityOptions.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Config\KpOpcUa_001.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Lang\KpOpcUa.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Lang\KpOpcUa.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\KpOpcUa.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\KpOpcUa.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\KpOpcUa.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\netstandard.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.AppContext.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Collections.Specialized.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Console.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Data.Common.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Globalization.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.Compression.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.Pipes.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.Expressions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.Parallel.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Linq.Queryable.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Http.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.NameResolution.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Ping.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Requests.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Security.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.Sockets.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Net.WebSockets.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ObjectModel.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Reflection.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Resources.Reader.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Resources.Writer.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Handles.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Claims.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.Principal.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Security.SecureString.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Text.Encoding.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Tasks.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Thread.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Threading.Timer.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.ValueTuple.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XDocument.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XPath.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Newtonsoft.Json.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Opc.Ua.Client.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Opc.Ua.Configuration.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Opc.Ua.Core.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaCommCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\Newtonsoft.Json.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaCommCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaCommCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.CtrlCommand.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.CtrlItem.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.CtrlSubscription.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.FrmConfig.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.FrmNodeAttr.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.OpcUa.UI.FrmSecurityOptions.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\Scada.Comm.Devices.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpOpcUa\obj\Release\KpOpcUa.csproj.CopyComplete

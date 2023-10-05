@@ -1,0 +1,96 @@
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Lang\ModDbExport.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Lang\ModDbExport.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ModDbExport.dll.config
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ModDbExport.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ModDbExport.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\MySql.Data.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Npgsql.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaServerCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Buffers.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Memory.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Numerics.Vectors.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.ValueTuple.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Npgsql.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Npgsql.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.dll.config
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaServerCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaServerCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Buffers.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Memory.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Numerics.Vectors.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.ValueTuple.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlArcUploadOptions.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlConnectionOptions.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlEventTrigger.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlGeneralOptions.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlTrigger.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.FrmDbExportConfig.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.FrmRangeEdit.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Lang\ModDbExport.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Lang\ModDbExport.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ModDbExport.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ModDbExport.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ModDbExport.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\MySql.Data.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Npgsql.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaServerCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Buffers.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Memory.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.ValueTuple.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Npgsql.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\Npgsql.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaData.Db.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaServerCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\ScadaServerCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Buffers.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Memory.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\bin\Release\System.ValueTuple.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlArcUploadOptions.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlConnectionOptions.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlEventTrigger.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlGeneralOptions.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.CtrlTrigger.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.FrmDbExportConfig.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.DbExport.UI.FrmRangeEdit.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\Scada.Server.Modules.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\OpenModules\ModDbExport\obj\Release\ModDbExport.csproj.CopyComplete

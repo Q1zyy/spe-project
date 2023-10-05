@@ -1,0 +1,88 @@
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Lang\ScadaServer.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Lang\ScadaServer.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerShell.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerShell.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerShell.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.UI.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\WinControl.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.UI.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.UI.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.dll.config
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\WinControl.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmArchive.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmCommonParams.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmEventTable.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenCommand.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenData.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenerator.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenEvent.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmModules.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmSaveParams.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmStats.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmSnapshotTable.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Lang\ScadaServer.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Lang\ScadaServer.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerShell.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerShell.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerShell.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.UI.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\WinControl.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaServerCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.UI.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentCommon.UI.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaAgentConnector.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\bin\Release\WinControl.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmArchive.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmCommonParams.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmEventTable.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenCommand.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenData.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenerator.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmGenEvent.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmModules.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmSaveParams.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmStats.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Forms.FrmSnapshotTable.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\Scada.Server.Shell.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerShell\obj\Release\ScadaServerShell.csproj.CopyComplete

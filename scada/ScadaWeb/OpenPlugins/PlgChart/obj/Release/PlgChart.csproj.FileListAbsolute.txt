@@ -1,0 +1,44 @@
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChart.dll.config
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChart.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChart.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChartCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\RepBuilder.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaWebCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChartCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChartCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\RepBuilder.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaWebCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaWebCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChart.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChart.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChart.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChartCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\RepBuilder.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaWebCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChartCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\PlgChartCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\RepBuilder.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaWebCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\bin\ScadaWebCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgChart\obj\Release\PlgChart.pdb

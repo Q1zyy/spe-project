@@ -1,0 +1,32 @@
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\KpTest.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\KpTest.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaCommCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaCommCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaCommCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\KpTest.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\KpTest.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaCommCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaCommCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaCommCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpTest\obj\Release\KpTest.pdb

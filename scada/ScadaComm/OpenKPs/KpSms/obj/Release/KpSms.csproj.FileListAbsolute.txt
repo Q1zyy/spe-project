@@ -1,0 +1,44 @@
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Lang\AddressBook.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\KpSms.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\KpSms.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\AddressBook.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaCommCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\AddressBook.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\AddressBook.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaCommCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaCommCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\Scada.Comm.Devices.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Lang\AddressBook.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\KpSms.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\KpSms.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\AddressBook.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaCommCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\AddressBook.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\AddressBook.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaCommCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaCommCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\Scada.Comm.Devices.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpSms\obj\Release\KpSms.pdb

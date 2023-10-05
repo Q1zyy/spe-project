@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Scada.Agent
+build_property.ProjectDir = C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentCommon\

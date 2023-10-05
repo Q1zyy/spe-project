@@ -1,0 +1,34 @@
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\PlgMonitor.dll.config
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\PlgMonitor.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\PlgMonitor.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaWebCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaWebCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaWebCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\PlgMonitor.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\PlgMonitor.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\PlgMonitor.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaWebCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaWebCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\bin\ScadaWebCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\OpenPlugins\PlgMonitor\obj\Release\PlgMonitor.pdb

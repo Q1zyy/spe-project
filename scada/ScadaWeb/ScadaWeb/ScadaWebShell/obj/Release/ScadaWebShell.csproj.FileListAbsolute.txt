@@ -1,0 +1,34 @@
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebShell.dll.config
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebShell.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebShell.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebShell.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebShell.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebShell.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaWebCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaWeb\ScadaWebShell\obj\Release\ScadaWebShell.pdb

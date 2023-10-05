@@ -1,0 +1,34 @@
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaDataTest.exe.config
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaDataTest.exe
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaDataTest.pdb
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.FrmMain.resources
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.exe
+C:\Users\52033\source\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaDataTest.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaDataTest.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaDataTest.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.FrmMain.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaData\ScadaDataTest\obj\Release\ScadaDataTest.pdb

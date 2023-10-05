@@ -1,0 +1,72 @@
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaData.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaData.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaServer.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaServer.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Config\ScadaServerSvcConfig.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\make_executable.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\restart_apache.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\scadarestart.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\scadastart.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\scadastop.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\svc_install.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\svc_uninstall.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\scadaserver
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\svc_restart.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\svc_start.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\svc_stop.sh
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerMono.exe.config
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerMono.exe
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerMono.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerEngine.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerEngine.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerEngine.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.exe
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaData.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaData.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaServer.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Lang\ScadaServer.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Config\ScadaServerSvcConfig.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\make_executable.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\restart_apache.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\scadarestart.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\scadastart.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\scadastop.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\svc_install.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\Common\svc_uninstall.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\scadaserver
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\svc_restart.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\svc_start.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Script\svc_stop.sh
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerMono.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerMono.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerMono.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerEngine.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerEngine.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaServerEngine.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerMono\obj\Release\ScadaServerMono.pdb

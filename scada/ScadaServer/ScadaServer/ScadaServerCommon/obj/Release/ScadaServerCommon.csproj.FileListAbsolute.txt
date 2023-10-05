@@ -1,0 +1,28 @@
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaServerCommon.XML
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaServerCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaServerCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaServerCommon.XML
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaServerCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaServerCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaServer\ScadaServer\ScadaServerCommon\obj\Release\ScadaServerCommon.pdb

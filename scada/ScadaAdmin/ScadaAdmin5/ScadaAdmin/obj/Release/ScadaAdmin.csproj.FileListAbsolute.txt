@@ -1,0 +1,185 @@
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaComm.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaComm.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaData.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaData.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaServer.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaServer.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaAdmin.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaAdmin.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Config\ScadaAdminConfig.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Config\ScadaAdminConfig_Linux.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdmin.exe.config
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdmin.exe
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdmin.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdminCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommShell.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerShell.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\WinControl.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.UI.dll
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdminCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdminCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.dll.config
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommShell.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommShell.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerShell.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerShell.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\WinControl.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.UI.pdb
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.UI.xml
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Deployment.CtrlProfileSelector.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Deployment.CtrlTransferSettings.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Tools.CtrlCnlCreate1.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Tools.CtrlCnlCreate2.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Tools.CtrlCnlCreate3.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmObjSelect.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmProfileEdit.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmInstanceProfile.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmInstanceStatus.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmUploadConfig.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmDownloadConfig.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmAbout.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmStartPage.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmTableImport.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmTableExport.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmBaseTable.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmColorSelect.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmFilter.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmFind.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmCtrlCnlProps.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmInCnlProps.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmSourceCode.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCnlCreate.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCommImport.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCommSync.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmDeviceAdd.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCnlClone.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCulture.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmFileNew.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmInstanceEdit.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmProjectProps.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmItemName.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmMain.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmProjectNew.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmTextEditor.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCnlMap.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmFileAssociation.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmLineAdd.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmSettings.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.exe
+C:\Users\52033\source\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaComm.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaComm.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaData.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaData.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaServer.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaServer.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaAdmin.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Lang\ScadaAdmin.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Config\ScadaAdminConfig.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Config\ScadaAdminConfig_Linux.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdmin.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdmin.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdmin.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdminCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommShell.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerShell.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\WinControl.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.UI.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdminCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAdminCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentConnector.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommShell.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaCommShell.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerShell.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaServerShell.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\WinControl.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.UI.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\bin\Release\ScadaAgentCommon.UI.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Deployment.CtrlProfileSelector.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Deployment.CtrlTransferSettings.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Tools.CtrlCnlCreate1.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Tools.CtrlCnlCreate2.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Controls.Tools.CtrlCnlCreate3.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmObjSelect.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmProfileEdit.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmInstanceProfile.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmInstanceStatus.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmUploadConfig.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Deployment.FrmDownloadConfig.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmAbout.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmStartPage.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmTableImport.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmTableExport.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmBaseTable.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmColorSelect.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmFilter.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmFind.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmCtrlCnlProps.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmInCnlProps.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tables.FrmSourceCode.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCnlCreate.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCommImport.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCommSync.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmDeviceAdd.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCnlClone.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCulture.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmFileNew.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmInstanceEdit.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmProjectProps.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmItemName.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmMain.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmProjectNew.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.FrmTextEditor.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmCnlMap.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmFileAssociation.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmLineAdd.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Forms.Tools.FrmSettings.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\Scada.Admin.App.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAdmin\ScadaAdmin5\ScadaAdmin\obj\Release\ScadaAdmin.csproj.CopyComplete

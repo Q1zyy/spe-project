@@ -1,0 +1,14 @@
+C:\Users\52033\source\Repos\scada\Log\Log\bin\Release\Log.XML
+C:\Users\52033\source\Repos\scada\Log\Log\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\Log\Log\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\Log\Log\obj\Release\Log.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\Log\Log\obj\Release\Log.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\Log\Log\obj\Release\Log.dll
+C:\Users\52033\source\Repos\scada\Log\Log\obj\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log\bin\Release\Log.XML
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log\obj\Release\Log.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log\obj\Release\Log.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log\obj\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log\obj\Release\Log.pdb

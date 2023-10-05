@@ -1,0 +1,20 @@
+C:\Users\52033\source\Repos\scada\Report\RepExec\bin\Release\RepExec.exe.config
+C:\Users\52033\source\Repos\scada\Report\RepExec\bin\Release\RepExec.exe
+C:\Users\52033\source\Repos\scada\Report\RepExec\bin\Release\RepBuilder.dll
+C:\Users\52033\source\Repos\scada\Report\RepExec\bin\Release\RepBuilder.xml
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Release\Utils.Report.Exec.FrmMain.resources
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Release\RepExec.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\bin\Release\RepExec.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\bin\Release\RepExec.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\bin\Release\RepBuilder.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\bin\Release\RepBuilder.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\obj\Release\Utils.Report.Exec.FrmMain.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\obj\Release\RepExec.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepExec\obj\Release\RepExec.exe

@@ -1,0 +1,20 @@
+C:\Users\52033\source\Repos\scada\Log\Log.Std\bin\Release\netstandard2.0\Log.Std.deps.json
+C:\Users\52033\source\Repos\scada\Log\Log.Std\bin\Release\netstandard2.0\Log.Std.dll
+C:\Users\52033\source\Repos\scada\Log\Log.Std\bin\Release\netstandard2.0\Log.Std.pdb
+C:\Users\52033\source\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52033\source\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.AssemblyInfoInputs.cache
+C:\Users\52033\source\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.AssemblyInfo.cs
+C:\Users\52033\source\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.dll
+C:\Users\52033\source\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\bin\Release\netstandard2.0\Log.Std.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\bin\Release\netstandard2.0\Log.Std.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\bin\Release\netstandard2.0\Log.Std.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Log\Log.Std\obj\Release\netstandard2.0\Log.Std.pdb

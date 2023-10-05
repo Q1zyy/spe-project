@@ -1,0 +1,4 @@
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Debug\RepExec.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Debug\Utils.Report.Exec.FrmMain.resources
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Debug\RepExec.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\Report\RepExec\obj\Debug\RepExec.csproj.CoreCompileInputs.cache

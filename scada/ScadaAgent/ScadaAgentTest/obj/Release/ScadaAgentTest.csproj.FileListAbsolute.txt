@@ -1,0 +1,43 @@
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentTest.exe.config
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentTest.exe
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentTest.pdb
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\Log.Std.dll
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentEngine.dll
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaData.Std.dll
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentEngine.pdb
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentEngine.xml
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\Log.Std.pdb
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaData.Std.pdb
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\Scada.Agent.Test.FrmMain.resources
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\Scada.Agent.Test.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.exe
+C:\Users\52033\source\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentTest.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentTest.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentTest.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\Log.Std.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentEngine.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaData.Std.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentEngine.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaAgentEngine.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\Log.Std.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\bin\Release\ScadaData.Std.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\Scada.Agent.Test.FrmMain.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\Scada.Agent.Test.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaAgent\ScadaAgentTest\obj\Release\ScadaAgentTest.pdb

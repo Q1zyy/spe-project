@@ -1,0 +1,10 @@
+C:\Users\52033\source\Repos\scada\Report\RepBuilder\bin\Release\RepBuilder.XML
+C:\Users\52033\source\Repos\scada\Report\RepBuilder\bin\Release\RepBuilder.dll
+C:\Users\52033\source\Repos\scada\Report\RepBuilder\obj\Release\RepBuilder.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\Report\RepBuilder\obj\Release\RepBuilder.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\Report\RepBuilder\obj\Release\RepBuilder.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepBuilder\bin\Release\RepBuilder.XML
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepBuilder\bin\Release\RepBuilder.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepBuilder\obj\Release\RepBuilder.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepBuilder\obj\Release\RepBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\Report\RepBuilder\obj\Release\RepBuilder.dll

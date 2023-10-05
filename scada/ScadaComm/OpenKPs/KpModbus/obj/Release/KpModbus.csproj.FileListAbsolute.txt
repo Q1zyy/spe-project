@@ -1,0 +1,54 @@
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Lang\KpModbus.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Lang\KpModbus.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\KpModbus.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\KpModbus.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\KpModbus.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaCommCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaCommCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaCommCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.CtrlCmd.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.CtrlElem.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.CtrlElemGroup.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.FrmDevProps.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.FrmDevTemplate.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.FrmTemplateSettings.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Lang\KpModbus.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Lang\KpModbus.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\KpModbus.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\KpModbus.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\KpModbus.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaCommCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaCommCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaCommCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.CtrlCmd.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.CtrlElem.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.CtrlElemGroup.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.FrmDevProps.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.FrmDevTemplate.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Modbus.UI.FrmTemplateSettings.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\Scada.Comm.Devices.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpModbus\obj\Release\KpModbus.csproj.CopyComplete

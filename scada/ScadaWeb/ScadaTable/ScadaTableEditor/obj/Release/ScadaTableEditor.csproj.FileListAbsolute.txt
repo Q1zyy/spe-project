@@ -1,0 +1,53 @@
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaData.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaData.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaTable.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaTable.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaTableEditor.exe.config
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaTableEditor.exe
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaTableEditor.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\PlgTableCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\PlgTableCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\PlgTableCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Forms.FrmAbout.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Forms.FrmItemInfo.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Forms.FrmMain.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Properties.Resources.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.exe
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaData.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaData.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaTable.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Lang\ScadaTable.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaTableEditor.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaTableEditor.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaTableEditor.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\PlgTableCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\PlgTableCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\PlgTableCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Forms.FrmAbout.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Forms.FrmItemInfo.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Forms.FrmMain.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\Scada.Table.Editor.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaTable\ScadaTableEditor\obj\Release\ScadaTableEditor.csproj.CopyComplete

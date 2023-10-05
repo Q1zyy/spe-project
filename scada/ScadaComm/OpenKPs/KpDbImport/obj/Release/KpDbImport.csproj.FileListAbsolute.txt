@@ -1,0 +1,74 @@
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Lang\KpDbImport.en-GB.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Lang\KpDbImport.ru-RU.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\KpDbImport.dll.config
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\KpDbImport.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\KpDbImport.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\MySql.Data.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Npgsql.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaCommCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Buffers.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Memory.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Numerics.Vectors.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.ValueTuple.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Npgsql.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Npgsql.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaCommCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaCommCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Buffers.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Memory.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Numerics.Vectors.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.ValueTuple.xml
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\Scada.Comm.Devices.DbImport.UI.FrmConfig.resources
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.dll
+C:\Users\52033\source\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Lang\KpDbImport.en-GB.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Lang\KpDbImport.ru-RU.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\KpDbImport.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\KpDbImport.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\KpDbImport.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\MySql.Data.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Npgsql.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaCommCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Buffers.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Memory.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.ValueTuple.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Npgsql.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\Npgsql.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaCommCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaCommCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Buffers.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Memory.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\bin\Release\System.ValueTuple.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\Scada.Comm.Devices.DbImport.UI.FrmConfig.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaComm\OpenKPs\KpDbImport\obj\Release\KpDbImport.pdb

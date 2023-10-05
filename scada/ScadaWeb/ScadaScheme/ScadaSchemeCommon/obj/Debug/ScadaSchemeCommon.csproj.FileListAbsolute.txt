@@ -1,0 +1,48 @@
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaSchemeCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaSchemeCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Log.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaData.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaWebCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Svg.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Log.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Log.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaData.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaData.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaWebCommon.pdb
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaWebCommon.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Svg.xml
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.AssemblyReference.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.CtrlSvgViewer.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmCollectionDialog.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmFontDialog.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmImageDialog.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmRangeDialog.resources
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.GenerateResource.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.CoreCompileInputs.cache
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.CopyComplete
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.dll
+C:\Users\52033\source\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaSchemeCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaSchemeCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Log.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaData.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaWebCommon.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Svg.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Log.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Log.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaData.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaData.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaWebCommon.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\ScadaWebCommon.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\bin\Debug\Svg.xml
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.CtrlSvgViewer.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmCollectionDialog.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmFontDialog.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmImageDialog.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\Scada.Scheme.Model.PropertyGrid.FrmRangeDialog.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Repos\scada\ScadaWeb\ScadaScheme\ScadaSchemeCommon\obj\Debug\ScadaSchemeCommon.csproj.CopyComplete
